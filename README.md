@@ -1,0 +1,2 @@
+# Sales-Dashboard-Using-Tableau
+This is sales insights data analysis project using tableau. This project will give you a feel of how data analysis projects are executed in big companies. Our case study is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights.
